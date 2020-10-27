@@ -28,3 +28,5 @@ Python Scripts that download data from the Hellenic Statistical Authority and pl
 - Extracts Graph using matplotlib
 - Exports the structured data to csv file and store them to an sqlite3 database
 
+
+## Charts
