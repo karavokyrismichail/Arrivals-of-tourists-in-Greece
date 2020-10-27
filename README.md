@@ -3,6 +3,7 @@
 Python Scripts that download data from the Hellenic Statistical Authority and plot four charts about tourism in greece during the period 2011-2014
 
 ## Tools
+
 - Beautiful Soup
 - pandas
 - Matplotlib
@@ -28,20 +29,24 @@ Python Scripts that download data from the Hellenic Statistical Authority and pl
 - Extracts a Graph that shows the number of arrivals in Greece for each transport during 2011-2014 (using Matplotlib)
 - Exports the structured data to csv file and store them to an sqlite3 database
 
-
 #### PerYear.py
 - Processes unstructured data from xls format files (using pandas)
 - Extracts a Graph that shows the number of arrivals in Greece for each year during 2011-2014 (using Matplotlib)
 - Exports the structured data to csv file and store them to an sqlite3 database
 
+## Notes
+
+- Run Downloader.py First
+- Before running each of the rest scripts, change the excel_path 
 
 ## Charts
 
-![Charts](https://github.com/karavokyrismichail/Arrivals-of-tourists-in-Greece/blob/main/Charts/Screenshot_1.png) ![Charts](https://github.com/karavokyrismichail/Arrivals-of-tourists-in-Greece/blob/main/Charts/Screenshot_2.png) ![Charts](https://github.com/karavokyrismichail/Arrivals-of-tourists-in-Greece/blob/main/Charts/Screenshot_3.png) ![Charts](https://github.com/karavokyrismichail/Arrivals-of-tourists-in-Greece/blob/main/Charts/Screenshot_4.png)
+![Charts](https://github.com/karavokyrismichail/Arrivals-of-tourists-in-Greece/blob/main/Charts/Screenshot_1.png) 
+![Charts](https://github.com/karavokyrismichail/Arrivals-of-tourists-in-Greece/blob/main/Charts/Screenshot_2.png) 
+![Charts](https://github.com/karavokyrismichail/Arrivals-of-tourists-in-Greece/blob/main/Charts/Screenshot_3.png) 
+![Charts](https://github.com/karavokyrismichail/Arrivals-of-tourists-in-Greece/blob/main/Charts/Screenshot_4.png)
 
-## Notes
-- Run Downloader.py First
-- Before running each of the rest scripts, change the excel_path 
+
 
 
 
