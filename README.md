@@ -32,4 +32,8 @@ Python Scripts that download data from the Hellenic Statistical Authority and pl
 
 ## Charts
 
+https://github.com/karavokyrismichail/Arrivals-of-tourists-in-Greece/blob/main/Charts/Screenshot_1.png
+https://github.com/karavokyrismichail/Arrivals-of-tourists-in-Greece/blob/main/Charts/Screenshot_2.png
+https://github.com/karavokyrismichail/Arrivals-of-tourists-in-Greece/blob/main/Charts/Screenshot_3.png
+https://github.com/karavokyrismichail/Arrivals-of-tourists-in-Greece/blob/main/Charts/Screenshot_4.png
 
