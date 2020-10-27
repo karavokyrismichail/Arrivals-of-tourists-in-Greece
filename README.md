@@ -42,3 +42,9 @@ https://github.com/karavokyrismichail/Arrivals-of-tourists-in-Greece/blob/main/C
 https://github.com/karavokyrismichail/Arrivals-of-tourists-in-Greece/blob/main/Charts/Screenshot_3.png
 https://github.com/karavokyrismichail/Arrivals-of-tourists-in-Greece/blob/main/Charts/Screenshot_4.png
 
+## Notes
+- Run Downloader.py First
+- Before running each of the rest scripts, change the excel_path 
+
+
+
