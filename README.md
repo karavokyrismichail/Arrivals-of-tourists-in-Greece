@@ -8,25 +8,26 @@ Python Scripts that download data from the Hellenic Statistical Authority and pl
 #### Downloader.py
 - Downloads XLS files about arrivals of tourists from the Hellenic Statistical Authority (page scraping)
 
+
 #### PerCountry.py
-- Processes unstructured data from xls format files using pandas
-- Extracts Graph using matplotlib
+- Processes unstructured data from xls format files (using pandas)
+- Extracts a Graph that shows the number of tourists that came in Greece during 2011-2014 from the top 10 countries with most arrvals (using matplotlib)
 - Exports the structured data to csv file and store them to an sqlite3 database
 
 #### PerQuarter.py
 - Processes unstructured data from xls format files using pandas
-- Extracts Graph using matplotlib
+- Extracts a Graph that shows for each quarter of the year during 2011-2014, the number of arrivals in Greece (using matplotlib)
 - Exports the structured data to csv file and store them to an sqlite3 database
 
 #### PerTransport.py
-- Processes unstructured data from xls format files using pandas
-- Extracts Graph using matplotlib
+- Processes unstructured data from xls format files (using pandas)
+- Extracts a Graph that shows the number of arrivals in Greece for each transport during 2011-2014 (using matplotlib)
 - Exports the structured data to csv file and store them to an sqlite3 database
 
 
 #### PerYear.py
-- Processes unstructured data from xls format files using pandas
-- Extracts Graph using matplotlib
+- Processes unstructured data from xls format files (using pandas)
+- Extracts a Graph that shows the number of arrivals in Greece for each year during 2011-2014 (using matplotlib)
 - Exports the structured data to csv file and store them to an sqlite3 database
 
 
